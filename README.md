@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DfwcIlZy8M2Xt3tcab5bHqMNmYjkcyFb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11Lq4umK5CmDolre3CmS4nHxHK_7A_l27/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio]()
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://anjalidhanjode28.github.io/)
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
