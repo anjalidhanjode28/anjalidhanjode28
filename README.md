@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/anjalidhanjode28/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Anjali; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
