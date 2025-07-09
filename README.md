@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/AnjaliDhanjode" target="blank"><img src="https://img.shields.io/twitter/follow/AnjaliDhanjode?logo=twitter&style=for-the-badge" alt="AnjaliDhanjode" /></a> </p>
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’ve completed Full Stack Web Development from Masai School
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently working as *Web Developer*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11Lq4umK5CmDolre3CmS4nHxHK_7A_l27/view?usp=sharing)
 
